@@ -1,0 +1,10 @@
+body{
+    color:#111;
+}
+
+.banner{
+    background-color: #005F73;
+    color:white;
+    height: 600px;
+    width: 100%;
+}
